@@ -1,2 +1,3 @@
 nginx
 b3log/siyuan
+minio/minio
