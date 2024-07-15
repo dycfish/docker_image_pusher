@@ -1,3 +1,4 @@
 nginx
 b3log/siyuan
 minio/minio
+chatgptweb/chatgpt-web
