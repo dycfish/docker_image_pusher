@@ -3,3 +3,4 @@ b3log/siyuan
 minio/minio
 chatgptweb/chatgpt-web
 jason5ng32/myip
+johngong/qiandao
