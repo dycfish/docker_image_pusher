@@ -4,3 +4,4 @@ minio/minio
 chatgptweb/chatgpt-web
 jason5ng32/myip
 johngong/qiandao
+a76yyyy/qiandao
