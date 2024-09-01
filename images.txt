@@ -6,3 +6,4 @@ jason5ng32/myip
 johngong/qiandao
 a76yyyy/qiandao
 coldpig/lskypro-docker
+gettionhub/lskypro
