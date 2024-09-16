@@ -7,3 +7,4 @@ johngong/qiandao
 a76yyyy/qiandao
 coldpig/lskypro-docker
 gettionhub/lskypro
+sagernet/sing-box
